@@ -2,6 +2,8 @@
 图片/视频提升分辨率
 
 ukbench100数据集下载地址：https://www.kaggle.com/datasets/sunghoshim/ukbench100  
+或者运行extra_image_from_json.py, 从json文件提取图片
+
 EDSR_x4.pb, ESPCN_x4.pb, FSRCNN_x3.pb, LapSRN_x8.pb下载地址：https://drive.google.com/drive/folders/1Tb1QRQ5b8QRd2jyGNcIXAjDpXgmQlvqh
 
 单张图片提高分辨率，运行super_res_image.py  
